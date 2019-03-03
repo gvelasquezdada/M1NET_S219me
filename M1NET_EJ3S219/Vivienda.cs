@@ -22,7 +22,7 @@ namespace M1NET_EJ3S219
 
         public void pagoTotal()
         {
-            Console.WriteLine("Poligono: " + poligono);
+            Console.WriteLine("Polígono: " + poligono);
             Console.WriteLine("Número casa: " + numeroCasa);
             Console.WriteLine("Pago total: $" + (pagoMensualCasa + pagoVigilancia));
 
